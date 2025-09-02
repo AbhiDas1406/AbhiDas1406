@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhiDas1406
-- 👀 I’m interested in AI/ML Learnings
+- 👀 I’m interested in SD/AI/ML Learnings
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
